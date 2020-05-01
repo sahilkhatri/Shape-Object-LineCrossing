@@ -12,5 +12,5 @@ obj_shape_line.py is the actual code file.
 
 Command to execute:
 
-python obj_shape_line1.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --output path to store video with file name and extenstion --shape shape/star.jpg 
+python main.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --output path to store video with file name and extenstion --shape shape/star.jpg 
 
